@@ -29,7 +29,7 @@
 
  📍 Add event locations, so your pass pops up on your lock screen the moment you walk in
 
-  **1.3k+ users as of 11/7/2025**
+    **1.3k+ users as of 11/7/2025**
 
 **Spikeball FIU fullstack website**
-https://github.com/FIU-Spikeball-Club-Website/spikeball-fiu-website
+    https://github.com/FIU-Spikeball-Club-Website/spikeball-fiu-website
